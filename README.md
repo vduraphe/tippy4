@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "http://giphy.com/gifs/l0MYvkhetMBXhJPQk" Walkthrough' width='' alt='Video Walkthrough' />
+<img src= "file:///Users/Vaidehi/Desktop/tipperUserStories.gif" Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
