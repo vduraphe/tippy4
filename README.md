@@ -36,6 +36,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- difficulty with pickerView
+- unclear on where to find helpful information on further developing the app with extra features
+
 
 ## License
 
