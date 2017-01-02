@@ -18,6 +18,7 @@ class SettingsViewController: UIViewController, UIPickerViewDelegate, UIPickerVi
     @IBOutlet weak var roundLabel: UILabel!
     @IBOutlet weak var roundUp: UISwitch!
     
+    @IBOutlet weak var splitLabel: UILabel!
     @IBOutlet weak var picker: UIPickerView!
     var pickerData: [String] = [String]()
     
@@ -33,6 +34,7 @@ class SettingsViewController: UIViewController, UIPickerViewDelegate, UIPickerVi
         // Do any additional setup after loading the view.
         roundLabel.textColor = UIColor.white
         defaultLabel.textColor = UIColor.white
+        splitLabel.textColor = UIColor.white
     }
     override func viewWillAppear(_ animated: Bool) {
         let tipPer = defaults.integer(forKey: "tip")
